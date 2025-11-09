@@ -1,15 +1,15 @@
-/* This would be in a separate file named style.css */
-.container {
+body {
+    font-family: Arial, sans-serif;
     max-width: 500px;
-    margin: 0 auto;
+    margin: 50px auto;
+    padding: 20px;
 }
 
-.form-group {
-    margin-bottom: 20px;
+h2 {
+    color: #333;
 }
 
-.error {
-    color: #e74c3c;
-    font-size: 14px;
-    margin-top: 5px;
+input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
