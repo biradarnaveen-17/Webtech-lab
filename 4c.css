@@ -1,0 +1,18 @@
+/* Heading before all data */
+STUDENTS::before {
+  content: "STUDENT DESCRIPTION";
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: black;
+}
+
+/* Make every tag block level so they appear on new lines */
+STUDENT {display: block; margin-top: 10px; color: navy;}
+USN {display: block; margin-left: 10px; font-size: 14px; color: red;}
+NAME {display: block; margin-left: 20px; font-size: 14px; color: blue;}
+COLLEGE {display: block; margin-left: 20px; font-size: 12px; color: maroon;}
+BRANCH {display: block; margin-left: 20px; font-size: 12px; color: purple;}
+YEAR {display: block; margin-left: 20px; font-size: 14px; color: green;}
+EMAIL {display: block; margin-left: 20px; font-size: 12px; color: blue;}

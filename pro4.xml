@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="4c.css"?>
+<STUDENTS>
+    <HEADING>STUDENT DESCRIPTION</HEADING>
+    <STUDENT>
+        <USN>USN:1BY23IS001</USN>
+        <NAME>NAME: SANVI</NAME>
+        <COLLEGE>COLLEGE: MSEC</COLLEGE>
+        <BRANCH>BRANCH: COMPUTER SCIENCE</BRANCH>
+        <YEAR>YEAR: 2023</YEAR>
+        <EMAIL>E-mail: sanvi@gmail.com</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <USN>USN:1BY23IS002</USN>
+        <NAME>NAME: MANORANJAN</NAME>
+        <COLLEGE>COLLEGE: BMSIT</COLLEGE>
+        <BRANCH>BRANCH: COMPUTER SCIENCE</BRANCH>
+        <YEAR>YEAR: 2023</YEAR>
+        <EMAIL>E-mail: manoranjan@gmail.com</EMAIL>
+    </STUDENT>
+</STUDENTS>
